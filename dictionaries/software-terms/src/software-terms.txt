@@ -442,6 +442,7 @@ deepmind
 DeepScale
 deepspeed
 def
+definitelyanewword
 defragment
 defragmentation # https://en.wikipedia.org/wiki/Defragmentation
 defragmentations
@@ -2256,7 +2257,9 @@ wireguard
 Wishart
 WMIC
 word
+wordpress
 WordPress
+wordpresses
 words
 workflow
 workgroup

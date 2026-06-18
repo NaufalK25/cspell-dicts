@@ -903,6 +903,7 @@ deepmind
 deepspeed
 def
 defec8ed
+definitelyanewword
 defrag
 defragger
 defragment
@@ -3167,6 +3168,8 @@ wireframe
 wireguard
 wontfix
 word
+wordpress
+wordpresses
 words
 workArea
 workDir
